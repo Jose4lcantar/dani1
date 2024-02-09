@@ -1,5 +1,9 @@
 {
   "dependencies": {
     "node": "^21.6.1"
-  }
+  },
+"scripts": {
+  "dev": "npm run dev"
 }
+}
+
